@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Correu</string>
+    <string-array name="consultes_array">
+        <item>Consulta</item>
+        <item>asistencia</item>
+        <item>watefuk</item>
+    </string-array>
+</resources>

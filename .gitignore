@@ -1,0 +1,57 @@
+# =============================================================================
+# Correu · Android (Gradle 9 + Android Studio)
+#
+# Only generated output, machine-specific config and secrets belong here.
+# These SHOULD stay tracked:
+#   gradlew, gradlew.bat, gradle/wrapper/gradle-wrapper.properties
+#   gradle/wrapper/gradle-wrapper.jar, gradle/libs.versions.toml
+#   gradle/gradle-daemon-jvm.properties, build.gradle.kts, settings.gradle.kts
+#   the whole src/ tree
+# =============================================================================
+
+# --- Gradle build output -----------------------------------------------------
+.gradle/
+.kotlin/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# --- Build artifacts ---------------------------------------------------------
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.hprof
+lint-results*
+
+# --- Android Studio / IntelliJ (per-user files only) -------------------------
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetSelector.xml
+
+# --- Local & secret configuration (never commit) -----------------------------
+local.properties
+keystore.properties
+signing.properties
+*.jks
+*.keystore
+.env
+
+# --- OS / editor noise -------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+*.log
