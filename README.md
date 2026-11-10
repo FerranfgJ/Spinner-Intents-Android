@@ -2,7 +2,7 @@
 
 # <u>Enunciat</u>
 
-**Objectius:**
+### **Objectius:**
 
 ·         Explicar el control Spinner
 
@@ -16,7 +16,7 @@
 
 ·         Característica **Input Type** dels editText.
 
-**Seguir l’explicació a classe sobre el projector per part del professor de**
+### **Seguir l’explicació a classe sobre el projector per part del professor de**
 
 ·         Crear aplicació per tal d’enviar un correu electrònic.
 
@@ -40,7 +40,7 @@ Si no es posa ***Intent.createChooser( ... , ...);***  i no hi ha cap aplicació
 
 
 
-**Ampliar i/o fer lectura dels següents apunts:**
+### **Ampliar i/o fer lectura dels següents apunts:**
 
 ·         Curso Programacion Salvador Gomez Oliver. 13-Depuracion de aplicaciones (Pàg. 219+)
 
@@ -60,7 +60,7 @@ Si no es posa ***Intent.createChooser( ... , ...);***  i no hi ha cap aplicació
 
 
 
-**Fer a classe:**
+### **Fer a classe:**
 
 ·         Reproduir l’exercici desenvolupat pel professor. Ampliar-lo per tal d’enviar CORRECTAMENT un mail a ***milbicis@gmail.com.***
 
